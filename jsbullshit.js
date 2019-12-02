@@ -38,5 +38,5 @@ if(mode === 'txt'){
     fs.writeFileSync(file,gen(主题))
     console.log('保存为 '+file)
 }else{
-   console.log(gen(主题))
+    console.log(gen(主题))
 }
