@@ -1,0 +1,22 @@
+{
+  "name": "jsbullshit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsbullshit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "jsbullshit":"jsbullshit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcstream/jsbullshit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcstream/jsbullshit/issues"
+  },
+  "homepage": "https://github.com/xcstream/jsbullshit#readme"
+}
